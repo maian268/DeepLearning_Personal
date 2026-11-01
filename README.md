@@ -7,3 +7,4 @@
 5. Tuần 5_Cá nhân_Làm bài tập 2 hồi quy Logistic và đồ thị tính toán. Hoàn thành lúc 14h 13/10.
 6. Tuần 6_Nghỉ
 7. Tuần 7_Cá nhân + Nhóm_Làm bài tập 3 Perceptron và Mạng học sâu + PROPOSAL đề tài cuối kỳ + Function Approximation (Nhóm).
+8. Tuần 8_Cá nhân_Làm bài tập 4 MLP và Mạng học sâu

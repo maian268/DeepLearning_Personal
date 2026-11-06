@@ -6,5 +6,6 @@
 4. Tuần 4_Nghỉ
 5. Tuần 5_Cá nhân_Làm bài tập 2 hồi quy Logistic và đồ thị tính toán. Hoàn thành lúc 14h 13/10.
 6. Tuần 6_Nghỉ
-7. Tuần 7_Cá nhân + Nhóm_Làm bài tập 3 Perceptron và Mạng học sâu + PROPOSAL đề tài cuối kỳ + Function Approximation (Nhóm).
+7. Tuần 7_Cá nhân + Nhóm_Làm bài tập 3 Perceptron và Mạng học sâu + PROPOSAL đề tài cuối kỳ + Function Approximation (Nhóm). Hoàn thành lúc 18h 3/11.
 8. Tuần 8_Cá nhân_Làm bài tập 4 MLP và Mạng học sâu. Hoàn thành lúc 5h 2/11.
+9. Tuần 9_Cá nhân_ Làm gg docs + file pdf M01 - BatchGD_Regression. Hoàn thành lúc 12h 6/11.

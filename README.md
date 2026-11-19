@@ -9,4 +9,4 @@
 7. Tuần 7_Cá nhân + Nhóm_Làm bài tập 3 Perceptron và Mạng học sâu + PROPOSAL đề tài cuối kỳ + Function Approximation (Nhóm). Hoàn thành lúc 18h 3/11.
 8. Tuần 8_Cá nhân_Làm bài tập 4 MLP và Mạng học sâu. Hoàn thành lúc 5h 2/11.
 9. Tuần 9_Cá nhân_ Làm gg docs + file pdf M01 - BatchGD_Regression. Hoàn thành lúc 12h 6/11.
-10. Tuần 10_Cá nhân+Nhóm_ Làm gg docs + file pdf M02 – MLP. Làm BTL02. Hoàn thành lúc 10h 16/11.
+10. Tuần 10_Cá nhân+Nhóm_ Làm gg docs + file pdf M02 – MLP+Làm BTL02. Hoàn thành lúc 10h 16/11.

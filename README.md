@@ -10,3 +10,4 @@
 8. Tuần 8_Cá nhân_Làm bài tập 4 MLP và Mạng học sâu. Hoàn thành lúc 5h 2/11.
 9. Tuần 9_Cá nhân_ Làm gg docs + file pdf M01 - BatchGD_Regression. Hoàn thành lúc 12h 6/11.
 10. Tuần 10_Cá nhân+Nhóm_ Làm gg docs + file pdf M02 – MLP+Làm BTL02. Hoàn thành lúc 10h 16/11.
+11. Tuần 11_Cá nhân+Nhóm_ Làm BT05 + M03 + BTL03.
